@@ -22,4 +22,4 @@ Using the above mentioned technologies and code sources, along with the javascri
 
  https://briansoldani.github.io/05-homework-assignment-05/
 
- ![](images/Work-Day_Planner.jpg)
+ ![](images/Work-Day-Planner.jpg)
